@@ -35,9 +35,9 @@ public class Operadores {
         int idade = 31;
         String sexo = "F";
 
-        String nome1 = "Sergio";
-        int idade1 = 37;
-        String sexo1 = "M";
+        // String nome1 = "Sergio";
+        // int idade1 = 37;
+        // String sexo1 = "M";
 
         if (sexo == "F") {
             if(idade >= 18) {

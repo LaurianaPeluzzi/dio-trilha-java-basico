@@ -11,6 +11,7 @@ public class TiposVariaveis {
         numero = 10;
 
         System.out.println(numero);
+        System.out.println(numeroCurto2);
 
     }
 }
